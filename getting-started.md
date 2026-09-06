@@ -1,11 +1,11 @@
 ---
 title: Getting started
-description: Base URL, conventions, responses and errors for the CRM Arica API.
+description: Base URL, conventions, responses and errors for the CRM Africa API.
 ---
 
 # Getting started
 
-The CRM Arica API is a JSON REST API. This page covers the conventions shared by every endpoint.
+The CRM Africa API is a JSON REST API. This page covers the conventions shared by every endpoint.
 For credentials, see **[Authentication](/authentication)**.
 
 ## Base URL

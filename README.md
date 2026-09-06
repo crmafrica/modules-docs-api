@@ -1,1 +1,1 @@
-Documentation for the Grow CRM API module.
+Documentation for the CRM Africa API module.
