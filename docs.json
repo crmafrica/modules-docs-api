@@ -3,9 +3,9 @@
   "theme": "luma",
   "name": "CRM Africa",
   "colors": {
-    "primary": "#16a34a",
-    "light": "#22c55e",
-    "dark": "#15803d"
+    "primary": "#2c3d86",
+    "light": "#eb1f5c",
+    "dark": "#ce6684"
   },
   "navigation": {
     "groups": [
@@ -75,6 +75,7 @@
   },
   "logo": {
     "light": "https://media.brand.dev/56f8b4d6-8478-47ca-b853-f49024c2ae3f.webp",
-    "dark": "https://media.brand.dev/56f8b4d6-8478-47ca-b853-f49024c2ae3f.webp"
+    "dark": "https://media.brand.dev/56f8b4d6-8478-47ca-b853-f49024c2ae3f.webp",
+    "href": "https://crm.africa"
   }
 }
