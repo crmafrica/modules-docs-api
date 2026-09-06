@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "CRM",
+  "theme": "luma",
+  "name": "CRM Africa",
   "colors": {
     "primary": "#16a34a",
     "light": "#22c55e",
@@ -68,5 +68,13 @@
         ]
       }
     ]
+  },
+  "favicon": {
+    "light": "https://media.brand.dev/56f8b4d6-8478-47ca-b853-f49024c2ae3f.webp",
+    "dark": "https://media.brand.dev/56f8b4d6-8478-47ca-b853-f49024c2ae3f.webp"
+  },
+  "logo": {
+    "light": "https://media.brand.dev/56f8b4d6-8478-47ca-b853-f49024c2ae3f.webp",
+    "dark": "https://media.brand.dev/56f8b4d6-8478-47ca-b853-f49024c2ae3f.webp"
   }
 }
